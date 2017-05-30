@@ -1,0 +1,12 @@
+[submodule "hydrolysis-element"]
+	path = hydrolysis-element
+	url = git@github.com:EberlyODL/hydrolysis-element.git
+[submodule "condensation-element"]
+	path = condensation-element
+	url = git@github.com:EberlyODL/condensation-element.git
+[submodule "maltose-element"]
+	path = maltose-element
+	url = git@github.com:EberlyODL/maltose-element.git
+[submodule "sucrose-element"]
+	path = sucrose-element
+	url = git@github.com:EberlyODL/sucrose-element.git
