@@ -10,3 +10,6 @@
 [submodule "sucrose-element"]
 	path = sucrose-element
 	url = git@github.com:EberlyODL/sucrose-element.git
+[submodule "fat-synthesis-element"]
+	path = fat-synthesis-element
+	url = git@github.com:EberlyODL/fat-synthesis-element.git
