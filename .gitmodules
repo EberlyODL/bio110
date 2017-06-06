@@ -13,3 +13,6 @@
 [submodule "fat-synthesis-element"]
 	path = fat-synthesis-element
 	url = git@github.com:EberlyODL/fat-synthesis-element.git
+[submodule "gene-crossover"]
+	path = gene-crossover
+	url = git@github.com:EberlyODL/gene-crossover.git
