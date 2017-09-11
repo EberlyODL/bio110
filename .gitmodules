@@ -16,3 +16,33 @@
 [submodule "gene-crossover"]
 	path = gene-crossover
 	url = git@github.com:EberlyODL/gene-crossover.git
+[submodule "bacterial-cell-division"]
+	path = bacterial-cell-division
+	url = https://github.com/EberlyODL/bacterial-cell-division.git
+[submodule "DNAreplication-overview"]
+	path = DNAreplication-overview
+	url = https://github.com/EberlyODL/DNAreplication-overview.git
+[submodule "animation-shared-styles"]
+	path = animation-shared-styles
+	url = https://github.com/EberlyODL/animation-shared-styles.git
+[submodule "disaccharide-formation"]
+	path = disaccharide-formation
+	url = https://github.com/EberlyODL/disaccharide-formation.git
+[submodule "hydrolysis-condensation"]
+	path = hydrolysis-condensation
+	url = https://github.com/EberlyODL/hydrolysis-condensation.git
+[submodule "mode-selection"]
+	path = mode-selection
+	url = https://github.com/EberlyODL/mode-selection.git
+[submodule "monohybrid-element"]
+	path = monohybrid-element
+	url = https://github.com/EberlyODL/monohybrid-element.git
+[submodule "pedigree-analyze"]
+	path = pedigree-analyze
+	url = https://github.com/EberlyODL/pedigree-analyze.git
+[submodule "peptide-formation-element"]
+	path = peptide-formation-element
+	url = https://github.com/EberlyODL/peptide-formation-element.git
+[submodule "translation-synthesis"]
+	path = translation-synthesis
+	url = https://github.com/EberlyODL/translation-synthesis.git
